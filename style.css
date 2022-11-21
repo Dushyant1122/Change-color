@@ -1,0 +1,14 @@
+.container{
+    border: 1px solid black;
+    display: flex;
+    justify-content: center;
+    height: 72vh;
+    align-items: center;
+    border-radius: 10% ;
+}
+
+
+.heading{
+    text-align: center;
+    color: blue;
+}
